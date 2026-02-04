@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"OpenGLSomethingFrameDisplayerEVO/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 85,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"OpenGLSomethingFrameDisplayerEVO/libOpenGLSomethingFrameDisplayerEVO.a"
+			],
+			"targetId" : "OpenGLSomethingFrameDisplayerEVO::@3ffef5fdc77cca4f7776",
+			"targetIndex" : 0,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "OpenGLSomethingFrameDisplayerEVO",
+		"source" : "OpenGLSomethingFrameDisplayerEVO"
+	}
+}

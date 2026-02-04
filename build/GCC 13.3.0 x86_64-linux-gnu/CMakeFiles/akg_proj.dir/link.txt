@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -O0 CMakeFiles/akg_proj.dir/core/Camera.cpp.o CMakeFiles/akg_proj.dir/core/Engine.cpp.o CMakeFiles/akg_proj.dir/core/InputManager.cpp.o CMakeFiles/akg_proj.dir/main.cpp.o -o akg_proj  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libGL.so -lSDL2 -ldl 

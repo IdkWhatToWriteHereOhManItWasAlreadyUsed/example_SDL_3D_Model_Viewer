@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/dmitry/AKG/lab1/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++  -I/home/dmitry/AKG/lab1 -g -O0 -std=gnu++20 -g -O0 -o CMakeFiles/akg_proj.dir/core/Camera.cpp.o -c /home/dmitry/AKG/lab1/core/Camera.cpp",
+  "file": "/home/dmitry/AKG/lab1/core/Camera.cpp",
+  "output": "CMakeFiles/akg_proj.dir/core/Camera.cpp.o"
+},
+{
+  "directory": "/home/dmitry/AKG/lab1/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++  -I/home/dmitry/AKG/lab1 -g -O0 -std=gnu++20 -g -O0 -o CMakeFiles/akg_proj.dir/core/Engine.cpp.o -c /home/dmitry/AKG/lab1/core/Engine.cpp",
+  "file": "/home/dmitry/AKG/lab1/core/Engine.cpp",
+  "output": "CMakeFiles/akg_proj.dir/core/Engine.cpp.o"
+},
+{
+  "directory": "/home/dmitry/AKG/lab1/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++  -I/home/dmitry/AKG/lab1 -g -O0 -std=gnu++20 -g -O0 -o CMakeFiles/akg_proj.dir/core/InputManager.cpp.o -c /home/dmitry/AKG/lab1/core/InputManager.cpp",
+  "file": "/home/dmitry/AKG/lab1/core/InputManager.cpp",
+  "output": "CMakeFiles/akg_proj.dir/core/InputManager.cpp.o"
+},
+{
+  "directory": "/home/dmitry/AKG/lab1/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++  -I/home/dmitry/AKG/lab1 -g -O0 -std=gnu++20 -g -O0 -o CMakeFiles/akg_proj.dir/main.cpp.o -c /home/dmitry/AKG/lab1/main.cpp",
+  "file": "/home/dmitry/AKG/lab1/main.cpp",
+  "output": "CMakeFiles/akg_proj.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,2 @@
+# Empty dependencies file for akg_proj.
+# This may be replaced when dependencies are built.
